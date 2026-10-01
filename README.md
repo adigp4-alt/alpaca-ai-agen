@@ -1,5 +1,7 @@
 # Alpaca AI Trading Agent
 
+> **Project showcase:** A compact rule-based Python integration prototype. Runtime behavior and investment performance are unverified. [Explore the source features, scope, and wider portfolio](./PROJECT-SHOWCASE.md).
+
 An autonomous AI trading agent built for the September 2026 Alpaca Hackathon. 
 
 This project demonstrates a fully functional, highly decoupled architecture using the **Model Context Protocol (MCP)** to separate the trading logic from the broker API integrations.
